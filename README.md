@@ -1,5 +1,5 @@
 # ExoReach
-
+STILL MISSING ACTUAL AI MODEL
 A wearable, EMG-controlled upper-limb orthosis that provides powered elbow
 flexion/extension assistance for paediatric physiotherapy (cerebral palsy
 rehabilitation, ages 6–12). Built as a Year 2 group project in the MEng
