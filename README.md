@@ -3,7 +3,7 @@
 A wearable, EMG-controlled upper-limb orthosis that provides powered elbow
 flexion/extension assistance for paediatric physiotherapy (cerebral palsy
 rehabilitation, ages 6–12). Built as a Year 2 group project in the MEng
-Bioengineering programme at Imperial College London (DAPP2, June 2026).
+Biomedical Engineering programme at Imperial College London (DAPP2, June 2026).
 
 <p align="center">
   <img src="docs/images/device_worn.png" width="360" alt="ExoReach worn on the forearm during testing">
